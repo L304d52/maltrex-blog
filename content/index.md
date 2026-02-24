@@ -7,7 +7,10 @@ title: About Me
 
 ## Welcome
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I'm a pentester with a obsession for red team operations and malware development.
+This blog is where I document the things I learn, break, and build no polished corporate writeups, just raw notes and research from someone who enjoys getting their hands dirty.
+
+Topics you'll find here: Malware development in Rust, Offensive Tooling, CTF Writeups, Web App Security, and whatever else catches my attention along the way.
 
 ## Contact
 
