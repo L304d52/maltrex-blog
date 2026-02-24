@@ -56,9 +56,9 @@ PageTitle.css = `
 }
 
 .site-avatar {
-  width: 3rem;
-  height: 3rem;
-  border-radius: 8px;
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
   object-fit: cover;
 }
 `
