@@ -53,13 +53,12 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
-  color: #fb3a6a;
 }
 
 .site-avatar {
   width: 201px !important;
   height: 201px !important;
-  border-radius: 4px;
+  border-radius: 8px;
   object-fit: cover;
   margin: 0 !important;
 }
