@@ -1,3 +1,6 @@
+---
+title: home
+---
 # About Me
 
 --- 
