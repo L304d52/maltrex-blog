@@ -1,9 +1,3 @@
----
-title: Untitled
-Creation Date: 24/02/2026 17:21
-Last Modified: 24/02/2026 17:21
-tags:
----
 # About Me
 
 --- 
@@ -16,7 +10,7 @@ tags:
 
 ## Contact
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/leonardomrz/?locale=en-US)
+You can contact me via <a href="https://www.linkedin.com/in/leonardomrz/?locale=en-US" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ## Certifications
 - OSCP - Offsec Certified Professional
