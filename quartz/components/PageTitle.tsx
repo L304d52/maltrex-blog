@@ -56,10 +56,11 @@ PageTitle.css = `
 }
 
 .site-avatar {
-  width: 28px;
-  height: 28px;
+  width: 28px !important;
+  height: 28px !important;
   border-radius: 4px;
   object-fit: cover;
+  margin: 0 !important;
 }
 `
 
