@@ -24,7 +24,7 @@ You can contact me via <a href="https://www.linkedin.com/in/leonardomrz/?locale=
 
 
 ## Legal Disclaimer
-> [!WARNING] Info 
+> [!WARNING] Warning 
 > All content published here is for educational purposes only. I do not support or authorize the use of any technique, code, or information from this blog for illegal, unethical, or harmful activities.
 > 
 > By accessing this content, you agree to use the knowledge shared here only on systems where you have explicit permission from the owner. I am not responsible for any misuse of this information by third parties.
