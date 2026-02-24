@@ -56,8 +56,8 @@ PageTitle.css = `
 }
 
 .site-avatar {
-  width: 28px !important;
-  height: 28px !important;
+  width: 100px !important;
+  height: 100px !important;
   border-radius: 4px;
   object-fit: cover;
   margin: 0 !important;
