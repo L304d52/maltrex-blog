@@ -1,8 +1,6 @@
 ---
-title: home
+title: About Me
 ---
-# About Me
-
 --- 
 
 # Whoami;
