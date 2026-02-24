@@ -62,6 +62,12 @@ PageTitle.css = `
   object-fit: cover;
   margin: 0 !important;
 }
+
+@media (max-width: 800px) {
+  .site-avatar {
+    display: none !important;
+  }
+}
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor
