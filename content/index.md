@@ -12,11 +12,11 @@ This blog is where I document the things I learn, break, and build no polished c
 
 Topics you'll find here: Malware development in Rust, Offensive Tooling, CTF Writeups, Web App Security, and whatever else catches my attention along the way.
 
-## Contact
+## Contact;
 
 You can contact me via <a href="https://www.linkedin.com/in/leonardomrz/?locale=en-US" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
-## Certifications
+## Certifications;
 - OSCP - Offsec Certified Professional
 - OSEP - OffSec Experienced Penetration Tester
 - CRTO - Certified Red Team Operator
@@ -26,7 +26,7 @@ You can contact me via <a href="https://www.linkedin.com/in/leonardomrz/?locale=
 - DCPT - Desec Certified Penetration Tester
 
 
-## Legal Disclaimer
+## Legal Disclaimer;
 > [!WARNING] Warning 
 > All content published here is for educational purposes only. I do not support or authorize the use of any technique, code, or information from this blog for illegal, unethical, or harmful activities.
 > 
