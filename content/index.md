@@ -3,9 +3,9 @@ title: About Me
 ---
 --- 
 
-# Whoami;
+# Welcome
 
-## Welcome
+## Whoami;
 
 I'm a pentester with a obsession for red team operations and malware development.
 This blog is where I document the things I learn, break, and build no polished corporate writeups, just raw notes and research from someone who enjoys getting their hands dirty.
